@@ -1,7 +1,7 @@
 <h1 align="left">Hi there 👋, I'm Aaron!</h1>
 <h3 align="left">I'm a 21 year old first class undergraduate, studying BSc Computer Science</h3>
 
-- 🔭 I’m currently working on [RecipeFinder](https://github.com/ProdevRecipeFinder) - A project I've undertaken as part of my Professional Development module
+- ⚒️ I’m currently working on [RecipeFinder](https://github.com/ProdevRecipeFinder) - A project I've undertaken as part of my Professional Development module
 
 - 🌱 I’m currently learning **TypeScript** and **ReactJS**
 
