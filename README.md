@@ -1,9 +1,9 @@
 <h1 align="left">Hi there 👋, I'm Aaron!</h1>
-<h3 align="left">I'm a 22 year old first class undergraduate, studying BSc Computer Science</h3>
+<h3 align="left">I'm a 24 year old first class undergraduate, studying BSc Computer Science</h3>
 
-- ⚒️ I’m currently working at Vulse 
+- ⚒️ I’m currently looking for a full-time software engineering job. 
 
-- 🌱 I’m currently learning **TypeScript** and **ReactJS**
+- 🌱 I’m currently learning **Ruby** and **Rust**
 
 - 👯 I’m looking to collaborate on anything! Send me an email!
 
